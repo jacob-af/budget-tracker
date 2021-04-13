@@ -3,8 +3,8 @@ const FILES_TO_CACHE = [
   "/index.html",
   "/assets/styles.css",
   "/dist/app.bundle.js",
-  "/dist/icons/icon_192x192.png",
-  "/dist/icons/icon_512X512.png",
+  // "/dist/icons/icon_192x192.png",
+  // "/dist/icons/icon_512X512.png",
   "/dist/manifest.json",
   "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
 ];
